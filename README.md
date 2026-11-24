@@ -1,6 +1,6 @@
-# Лабораторна робота 4. Синхронна та асинхронна комунікація
+﻿# Лабораторна робота 4. Синхронна та асинхронна комунікація
 
-![tests](https://github.com/Callibri/lab4/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Callibri/lab4_KPI/actions/workflows/tests.yml/badge.svg)
 
 Розширення лабораторної 3. Допоміжний компонент Audit (журнал бізнес-дій) лежить в `src/boxoffice/audit` зі своїм контрактом. Після кожної команди система повідомляє компонент двома способами, режим обирається змінною `COMMUNICATION_MODE`.
 
